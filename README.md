@@ -17,13 +17,13 @@
 git clone the project
 
 ```shell
-git clone https://github.com/rafaelangical/redis-nodejs
+git clone https://github.com/rafaelangical/redis-nodejs docker-node-mongo-redis
 ```
 
 ## Running
 
 ```shell
-cd docker-mysql-mongo-redis
+cd docker-node-mongo-redis
 docker-compose up -d
 
 # show docker-compose log
